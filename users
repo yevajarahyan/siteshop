@@ -1,0 +1,35 @@
+<?php
+
+class uers{
+    public $id;
+    public $username;
+    public $firstname;
+    public $lastname;
+    public $emile;
+    public $phone;
+    public $birthdate;
+    public $password;
+    public $statue;
+
+
+    puplic static function create(){
+    
+    }
+    
+    puplic static function read(){
+        
+    }
+    
+    puplic static function update(){
+        
+    }
+    
+    puplic static function delete(){
+        
+    }
+
+}
+
+
+$you = new Category();
+?>

@@ -1,0 +1,32 @@
+<?php
+
+class products{
+    public $id;
+    public $title;
+    public $price;
+    public $image;
+    public $descripton;
+    public $rewiewes;
+    public $categories;
+    public $status;
+
+
+
+    puplic static function create(){
+    
+    }
+    
+    puplic static function read(){
+        
+    }
+    
+    puplic static function update(){
+        
+    }
+    
+    puplic static function delete(){
+        
+    }
+}
+
+?>
